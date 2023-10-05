@@ -18,7 +18,9 @@ If you are using google to store your contacts (and sync to your iphone for inst
 It will also store information about the contacts and their photos in a spreadsheet.
 
 ## How It Works
-To learn how this program works, see the [the app operation document](docs/app-operation.md)
+To learn how this program works, see the [the app operation document](docs/app-operation.md). Here is a sample execution:
+
+![sample execution](docs/getdexphotos-execution.mp4)
 
 # Getting Started
 
