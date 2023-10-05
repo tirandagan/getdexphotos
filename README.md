@@ -20,9 +20,10 @@ It will also store information about the contacts and their photos in a spreadsh
 ## How It Works
 To learn how this program works, see the [the app operation document](docs/app-operation.md). Here is a sample execution:
 
-<video width="640" height="480" controls>
-  <source src="docs/getdexphotos-execution.mp4" type="video/mp4">
-</video>
+https://github.com/tirandagan/getdexphotos/assets/1196339/58bb2dcb-f097-49d9-b321-33f38eb86222
+
+
+
 # Getting Started
 
 To configure the app, follow the instructions in [settings.md](docs/settings.md)
